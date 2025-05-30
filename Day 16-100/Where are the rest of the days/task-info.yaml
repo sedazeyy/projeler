@@ -1,0 +1,225 @@
+type: theory
+files:
+  - name: Day 17/main.py
+    visible: true
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: Day 17/data.py
+    visible: true
+    learner_created: true
+  - name: Day 17/question_model.py
+    visible: true
+    learner_created: true
+  - name: Day 17/quiz_brain.py
+    visible: true
+    learner_created: true
+  - name: Day 17/__init__.py
+    visible: true
+    learner_created: true
+  - name: Day 18/draw_dashed_line.py
+    visible: true
+    learner_created: true
+  - name: Day 18/draw_shapes.py
+    visible: true
+    learner_created: true
+  - name: Day 18/draw_sqare.py
+    visible: true
+    learner_created: true
+  - name: Day 18/main.py
+    visible: true
+    learner_created: true
+  - name: Day 18/random_walk.py
+    visible: true
+    learner_created: true
+  - name: Day 18/spirograph.py
+    visible: true
+    learner_created: true
+  - name: Day 18/hirst_painting.gif
+    visible: true
+    is_binary: true
+    learner_created: true
+  - name: Day 18/README.md
+    visible: true
+    learner_created: true
+  - name: Day 19/README.md
+    visible: true
+    learner_created: true
+  - name: Day 19/turtle_race.gif
+    visible: true
+    is_binary: true
+    learner_created: true
+  - name: Day 19/main.py
+    visible: true
+    learner_created: true
+  - name: Day 20/README.md
+    visible: true
+    learner_created: true
+  - name: Day 20/main.py
+    visible: true
+    learner_created: true
+  - name: Day 20/snake.py
+    visible: true
+    learner_created: true
+  - name: Day 20/snake_game.gif
+    visible: true
+    is_binary: true
+    learner_created: true
+  - name: Day 20/__init__.py
+    visible: true
+    learner_created: true
+  - name: Day 21/__init__.py
+    visible: true
+    learner_created: true
+  - name: Day 21/README.md
+    visible: true
+    learner_created: true
+  - name: Day 21/food.py
+    visible: true
+    learner_created: true
+  - name: Day 21/main.py
+    visible: true
+    learner_created: true
+  - name: Day 21/scoreboard.py
+    visible: true
+    learner_created: true
+  - name: Day 21/snake.py
+    visible: true
+    learner_created: true
+  - name: Day 21/snake_game.gif
+    visible: true
+    is_binary: true
+    learner_created: true
+  - name: Day 22/ball.py
+    visible: true
+    learner_created: true
+  - name: Day 22/main.py
+    visible: true
+    learner_created: true
+  - name: Day 22/paddle.py
+    visible: true
+    learner_created: true
+  - name: Day 22/pong.gif
+    visible: true
+    is_binary: true
+    learner_created: true
+  - name: Day 22/scoreboard.py
+    visible: true
+    learner_created: true
+  - name: Day 23/README.md
+    visible: true
+    learner_created: true
+  - name: Day 23/car_manager.py
+    visible: true
+    learner_created: true
+  - name: Day 23/main.py
+    visible: true
+    learner_created: true
+  - name: Day 23/player.py
+    visible: true
+    learner_created: true
+  - name: Day 23/scoreboard.py
+    visible: true
+    learner_created: true
+  - name: Day 23/turtle_crossing.gif
+    visible: true
+    is_binary: true
+    learner_created: true
+  - name: salı/main.py
+    visible: true
+    learner_created: true
+  - name: salı/mile_to_kilo_converter.py
+    visible: true
+    learner_created: true
+  - name: Day 17/64/main.py
+    visible: true
+    learner_created: true
+  - name: salı/26/playground.py
+    visible: true
+    learner_created: true
+  - name: abd/main.py
+    visible: true
+    learner_created: true
+  - name: abd/states_to_learn.csv
+    visible: true
+    learner_created: true
+  - name: abd/images/blank_states_img.gif
+    visible: true
+    is_binary: true
+    learner_created: true
+  - name: abd/50_states.csv
+    visible: true
+    learner_created: true
+  - name: nato alfabesi/main.py
+    visible: true
+    learner_created: true
+  - name: nato alfabesi/nato_phonetic_alphabet.csv
+    visible: true
+    learner_created: true
+  - name: pomodoro timer/tomato.png
+    visible: true
+    is_binary: true
+    learner_created: true
+  - name: pomodoro timer/main.py
+    visible: true
+    learner_created: true
+  - name: şifre yönetici GUI/main.py
+    visible: true
+    learner_created: true
+  - name: şifre yönetici GUI/data.txt
+    visible: true
+    learner_created: true
+  - name: şifre yönetici GUI/logo.png
+    visible: true
+    is_binary: true
+    learner_created: true
+  - name: flash card/main.py
+    visible: true
+    learner_created: true
+  - name: flash card/data/words_to_learn.csv
+    visible: true
+    learner_created: true
+  - name: flash card/data/french_words.csv
+    visible: true
+    learner_created: true
+  - name: flash card/images/wrong.png
+    visible: true
+    is_binary: true
+    learner_created: true
+  - name: smtp kullanarak email gönderme/birthdays.csv
+    visible: true
+    learner_created: true
+  - name: smtp kullanarak email gönderme/main.py
+    visible: true
+    learner_created: true
+  - name: smtp kullanarak email gönderme/letter_templates/letter_1.txt
+    visible: true
+    learner_created: true
+  - name: smtp kullanarak email gönderme/letter_templates/letter_3.txt
+    visible: true
+    learner_created: true
+  - name: smtp kullanarak email gönderme/letter_templates/letter_2.txt
+    visible: true
+    learner_created: true
+  - name: quiz_brain/ui.py
+    visible: true
+    learner_created: true
+  - name: quiz_brain/data.py
+    visible: true
+    learner_created: true
+  - name: quiz_brain/main.py
+    visible: true
+    learner_created: true
+  - name: quiz_brain/quiz_brain.py
+    visible: true
+    learner_created: true
+  - name: quiz_brain/question_model.py
+    visible: true
+    learner_created: true
+  - name: cookie bot/main.py
+    visible: true
+    learner_created: true
+status: Solved
+record: -1
+post_submission_on_open: true
